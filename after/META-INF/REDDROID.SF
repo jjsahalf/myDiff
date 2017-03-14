@@ -1,13 +1,13 @@
 Signature-Version: 1.0
 Created-By: 0.3 (Android apksigner)
-SHA1-Digest-Manifest: ibmVVrm/71sW6jK4K+YqjXA5vnU=
+SHA1-Digest-Manifest: lI2/F29/Ho8eVomeEsvECkHEfew=
 X-Android-APK-Signed: 2
 
 Name: AndroidManifest.xml
 SHA1-Digest: fM60gWKvHa02z9412fgxNQxGOuE=
 
 Name: classes.dex
-SHA1-Digest: zodVdRb1ybJiY6LrRdWxeznvOLo=
+SHA1-Digest: 5oG1HJSsfDEww2FMSwoZswJNYso=
 
 Name: res/anim/abc_fade_in.xml
 SHA1-Digest: wE1QEZhFkLBWMw4TRtxPdsiMRtA=
